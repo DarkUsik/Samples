@@ -54,6 +54,6 @@ while a != 0 and b != 0:
         a %= b
     else:
         b %= a
-print(m // (a + b))'''
+print(m // (a + b))'''''
 
 
