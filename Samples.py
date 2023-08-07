@@ -10,7 +10,7 @@ for digit in digits:
 
 # Отрывок кода для выделения чисел или букв из строк
 
-'''mass=[]
+mass=[]
 sum=0
 len=input("Введите кол-во элементов в массиве:\n")
 for i in range(int(len)):
@@ -26,7 +26,7 @@ for word in mass:
         except:
             print(letter)  #Вывод буквы
             continue
-print(sum)'''
+print(sum)
 
 # Программа для создания пустого двумерного массива
 '''a=3
