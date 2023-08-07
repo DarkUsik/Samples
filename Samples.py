@@ -29,11 +29,11 @@ for word in mass:
 print(sum)
 
 # Программа для создания пустого двумерного массива
-'''a=3
+a=3
 mass=[0]*a
 for i in range(a):      
     mass[i]=[0]*a
-print(mass)'''
+print(mass)
 
 # Отрывок для нахождения НОД
 '''a = int(input())
