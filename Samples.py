@@ -10,7 +10,7 @@ for digit in digits:
 
 # Отрывок кода для выделения чисел или букв из строк
 
-'''mass=[]
+'''mass=[]fasfasfas
 sum=0
 len=input("Введите кол-во элементов в массиве:\n")
 for i in range(int(len)):
